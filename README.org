@@ -1,0 +1,10 @@
+* simple-config
+
+parse simple KEY=VALUE config files 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/compufox/simple-config.git   |
+| commit  | 255cb0d  |
+| systems | simple-config |
+|---------+-------------------------------------------|
+
